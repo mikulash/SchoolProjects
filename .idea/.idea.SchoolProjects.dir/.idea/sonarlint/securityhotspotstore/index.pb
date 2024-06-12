@@ -1,0 +1,89 @@
+
+H
+Bc/ISA-dissector/LICENSE,1\9\19257b2e2ef8b38d2f6657120cdbe488e9ae8b0f
+K
+Bc/ISA-dissector/.gitignore,e\3\e3f55e76680ec8fceb89ca2d325bd0d10434e388
+H
+Bc/INC-projekt/README.md,5\d\5d930c101e7250b122e3bd25b09949273c39f53e
+F
+Bc/INC-projekt/fsm.vhd,e\5\e532d23c6f32a54e1b9f16e83204104d1a59309e
+M
+Bc/IZV/izv-part01/get_stat.py,c\f\cf3e147e23e5945fe1d7cb995a3b4b0d876dd5d6
+M
+Bc/IZV/izv-part01/download.py,7\0\7042a0394a0e276902e4ebd344fcaf43d5642f1f
+C
+Bc/IZV/.~lock.chba#,d\3\d38b913a962f2d33420935633eb19253534fbbb4
+A
+Bc/IZV/.gitignore,0\9\09e72b4c2cc907ef78c6e5be63e3a1c1d7e0015a
+J
+Bc/ISA-dissector/README.md,2\3\233237a413574fa7b7d6a48ff81680998fb4350e
+M
+Bc/IZV/izv-part02/analysis.py,4\5\45ec88a7a9e15982deb6555aee39c183218e25b7
+R
+"Bc/IPK1-souborovy-system/README.md,3\f\3f6f703c1e8fa38acc6747ccda3bf6a70d42a361
+P
+ Bc/IPK1-souborovy-system/LICENSE,e\7\e7aa0f04c4e0dd1aefae19ecb36434c153f21ff7
+S
+#Bc/IPK1-souborovy-system/fileget.py,f\7\f7b73edbc4967d7af3619a03183e0c26ea3541d6
+B
+Bc/IZV/.~lock.foo#,a\9\a99b170586a37f4e1e354f593e0776efa756238a
+ 
+p.idea/.idea.SchoolProjects.dir/.idea/sonarlint/securityhotspotstore/3/f/3f6f703c1e8fa38acc6747ccda3bf6a70d42a361,e\8\e8b21ce9f14d7f1e2e884583bfc3caf51dccf319
+ 
+p.idea/.idea.SchoolProjects.dir/.idea/sonarlint/securityhotspotstore/2/3/233237a413574fa7b7d6a48ff81680998fb4350e,a\c\ac3e4e1fac21d5c386ac87cbee05ad7dc3fd0433
+ 
+p.idea/.idea.SchoolProjects.dir/.idea/sonarlint/securityhotspotstore/1/9/19257b2e2ef8b38d2f6657120cdbe488e9ae8b0f,b\8\b8b1d765d36e6ec0d4f75a6be1415a417feed26b
+ 
+p.idea/.idea.SchoolProjects.dir/.idea/sonarlint/securityhotspotstore/0/9/09e72b4c2cc907ef78c6e5be63e3a1c1d7e0015a,b\3\b3c621c57e7eade3229e749b7eb2e6dcacf4dcd8
+–
+f.idea/.idea.SchoolProjects.dir/.idea/sonarlint/issuestore/d/3/d38b913a962f2d33420935633eb19253534fbbb4,2\2\22e0853e295353c19c61204b796a941464a09aa7
+ 
+p.idea/.idea.SchoolProjects.dir/.idea/sonarlint/securityhotspotstore/7/0/7042a0394a0e276902e4ebd344fcaf43d5642f1f,a\7\a7669dbab33907f31df4a8aca45ea678f8d6cb16
+–
+f.idea/.idea.SchoolProjects.dir/.idea/sonarlint/issuestore/c/f/cf3e147e23e5945fe1d7cb995a3b4b0d876dd5d6,a\e\aeeae6a8754463502c4f6ac7c2b0776b33d65ae8
+ 
+p.idea/.idea.SchoolProjects.dir/.idea/sonarlint/securityhotspotstore/5/d/5d930c101e7250b122e3bd25b09949273c39f53e,1\1\11dd52fd7a3836eda6f1e2f39bae8badd6431024
+–
+f.idea/.idea.SchoolProjects.dir/.idea/sonarlint/issuestore/a/9/a99b170586a37f4e1e354f593e0776efa756238a,b\c\bc533e17a17c276ac4b878787a3fd2b0caabf083
+ 
+p.idea/.idea.SchoolProjects.dir/.idea/sonarlint/securityhotspotstore/4/5/45ec88a7a9e15982deb6555aee39c183218e25b7,2\a\2a1a7b13e396860377f2b45eb5516e61b9082642
+r
+B.idea/.idea.SchoolProjects.dir/.idea/sonarlint/issuestore/index.pb,5\4\54dc14429eb11133484f1a5451a3c91f14f5e20f
+–
+f.idea/.idea.SchoolProjects.dir/.idea/sonarlint/issuestore/f/7/f7b73edbc4967d7af3619a03183e0c26ea3541d6,2\7\27053dbf55a3360f36cf0d56c25c88e7514f28c9
+–
+f.idea/.idea.SchoolProjects.dir/.idea/sonarlint/issuestore/e/7/e7aa0f04c4e0dd1aefae19ecb36434c153f21ff7,d\3\d3aecfa96516e4c61909526012e5f2ae23963d2c
+–
+f.idea/.idea.SchoolProjects.dir/.idea/sonarlint/issuestore/e/5/e532d23c6f32a54e1b9f16e83204104d1a59309e,5\b\5b892f3058e88531c0be3ee4f5a7526e53f2a2f7
+–
+f.idea/.idea.SchoolProjects.dir/.idea/sonarlint/issuestore/e/3/e3f55e76680ec8fceb89ca2d325bd0d10434e388,7\b\7beae84ff7dfe74e95f71079f168ec6c4cf6f3f5
+–
+f.idea/.idea.SchoolProjects.dir/.idea/sonarlint/issuestore/3/f/3f6f703c1e8fa38acc6747ccda3bf6a70d42a361,5\c\5cde9b81184b821826c0bcd1ec9c2ff989c90cc7
+–
+f.idea/.idea.SchoolProjects.dir/.idea/sonarlint/issuestore/2/3/233237a413574fa7b7d6a48ff81680998fb4350e,3\8\38732c0006d5e79be605af3ee509db5c099c7855
+–
+f.idea/.idea.SchoolProjects.dir/.idea/sonarlint/issuestore/1/9/19257b2e2ef8b38d2f6657120cdbe488e9ae8b0f,c\8\c8a826dd5ed8b65062642bf72e9ec4503446c00b
+–
+f.idea/.idea.SchoolProjects.dir/.idea/sonarlint/issuestore/0/9/09e72b4c2cc907ef78c6e5be63e3a1c1d7e0015a,3\b\3b59dc58fb7db09cbbd19c9bc550de5498b03bf4
+–
+f.idea/.idea.SchoolProjects.dir/.idea/sonarlint/issuestore/7/0/7042a0394a0e276902e4ebd344fcaf43d5642f1f,6\8\68b0adfee299c79f08fdf6c7c7b241c9695bd1c4
+–
+f.idea/.idea.SchoolProjects.dir/.idea/sonarlint/issuestore/5/d/5d930c101e7250b122e3bd25b09949273c39f53e,a\3\a341bf0ac58b29ec418a5811cd69fa5058c1d6ca
+–
+f.idea/.idea.SchoolProjects.dir/.idea/sonarlint/issuestore/4/5/45ec88a7a9e15982deb6555aee39c183218e25b7,c\b\cb0a02389574f5f416995888bca015a8f9921517
+ 
+p.idea/.idea.SchoolProjects.dir/.idea/sonarlint/securityhotspotstore/d/3/d38b913a962f2d33420935633eb19253534fbbb4,e\8\e83c8304b19b3bb8e33cad413b4bc2af2adc72dd
+ 
+p.idea/.idea.SchoolProjects.dir/.idea/sonarlint/securityhotspotstore/c/f/cf3e147e23e5945fe1d7cb995a3b4b0d876dd5d6,5\f\5f698ee6007f5362c69bd2ef07d8d7e9e76dd7a4
+ 
+p.idea/.idea.SchoolProjects.dir/.idea/sonarlint/securityhotspotstore/a/9/a99b170586a37f4e1e354f593e0776efa756238a,9\9\997c78fe7c9715f965f32ebb4bda42879e44dc58
+|
+L.idea/.idea.SchoolProjects.dir/.idea/sonarlint/securityhotspotstore/index.pb,e\c\ecb5522561b17f34dd322ab05116712c3c930bb9
+ 
+p.idea/.idea.SchoolProjects.dir/.idea/sonarlint/securityhotspotstore/f/7/f7b73edbc4967d7af3619a03183e0c26ea3541d6,0\d\0d529c52655c44eb9dd21f1cb331d1d2906db7a6
+ 
+p.idea/.idea.SchoolProjects.dir/.idea/sonarlint/securityhotspotstore/e/7/e7aa0f04c4e0dd1aefae19ecb36434c153f21ff7,0\0\00c0e40ad6d99f219b8b4ce1e2d398541ff9beba
+ 
+p.idea/.idea.SchoolProjects.dir/.idea/sonarlint/securityhotspotstore/e/5/e532d23c6f32a54e1b9f16e83204104d1a59309e,d\1\d14417235bc420705192701e78fa54b3321a3f12
+ 
+p.idea/.idea.SchoolProjects.dir/.idea/sonarlint/securityhotspotstore/e/3/e3f55e76680ec8fceb89ca2d325bd0d10434e388,e\3\e3e675e1e197e32f3b0655d07358027964e14c15
