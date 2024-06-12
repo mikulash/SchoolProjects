@@ -1,0 +1,1 @@
+# IPK-Trivi-ln-distribuovan-souborov-syst-m

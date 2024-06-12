@@ -1,0 +1,4 @@
+.idea
+data/
+.venv
+izv-part01/__pycache__
